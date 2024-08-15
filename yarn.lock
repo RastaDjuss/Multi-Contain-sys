@@ -5,8 +5,8 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"my_multi_container_project@workspace:.":
+"Multi-Contain-sys@workspace:.":
   version: 0.0.0-use.local
-  resolution: "my_multi_container_project@workspace:."
+  resolution: "Multi-Contain-sys@workspace:."
   languageName: unknown
   linkType: soft
